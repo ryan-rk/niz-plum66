@@ -1,0 +1,133 @@
+[
+  [
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "a": 4
+    },
+    "\n\n\nPScr",
+    {
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "",
+    {
+      "a": 4
+    },
+    "\n\nMs\nClick\n\n\n\nRight",
+    "\n\n\nMs&rArr;\n\n\n\nspeed",
+    "\n\n\nMs&uArr;",
+    "\n\n\nMs&lArr;\n\n\n\nspeed",
+    "\n\n\nMs&uArr;\n\n\n\nspeed",
+    "\n\nMs\nClick\n\n\n\nMid",
+    "\n\n\nstart\n\n\n\nsntc",
+    "\n\n\nprev\n\n\n\nword",
+    "\n\n\nnext\n\n\n\nword",
+    "\n\n\nend\n\n\n\nsntc",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "w": 1.5
+    },
+    ""
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.75
+    },
+    "\n\n\nEsc",
+    "\n\nMs\nClick\n\n\n\nLeft",
+    "\n\n\nMs&lArr;",
+    "\n\n\nMs&dArr;",
+    "\n\n\nMs&rArr;",
+    "\n\n\nMs&dArr;\n\n\n\nspeed",
+    "\n\n\n&larr;",
+    "\n\n\n&darr;",
+    "\n\n\n&uarr;",
+    "\n\n\n&rarr;",
+    "\n\n\nEnter",
+    "\n\n\n&lArr;",
+    {
+      "a": 7,
+      "w": 2.25
+    },
+    ""
+  ],
+  [
+    {
+      "a": 4,
+      "w": 2.25
+    },
+    "\n\n\nAlt",
+    "\n\n\nUndo",
+    "\n\n\nDelete",
+    "\n\n\nCopy",
+    "\n\n\nPaste",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "a": 4
+    },
+    "\n\n\nFront\n\n\n\ndelete",
+    "\n\n\nWord\n\n\n\ndelete",
+    {
+      "w": 1.75
+    },
+    "\n\n\nAlt",
+    "\n\n\nDel"
+  ],
+  [
+    {
+      "a": 7,
+      "w": 1.25
+    },
+    "",
+    "",
+    "",
+    {
+      "a": 4
+    },
+    "\n\n\nCmd",
+    {
+      "w": 4.75
+    },
+    "\n\n\nCtrl",
+    "\n\n\nCmd",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+]
